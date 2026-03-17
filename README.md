@@ -32,8 +32,6 @@ for tracking work hours and calculating salary.
 
 ## GitHub Stats
 
-![Feras's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerasHB&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerasHB&layout=compact&theme=tokyonight)
 
 ---
