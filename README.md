@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Feras 👋
 
-<!--
-**FerasHB/FerasHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile App Developer (iOS, Android & Cross-Platform)
 
-Here are some ideas to get you started:
+I develop mobile applications using modern technologies like Swift, Kotlin and React Native.  
+I enjoy building clean, user-friendly and scalable mobile apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+• Swift / SwiftUI  
+• Kotlin / Android  
+• React Native / Expo  
+• TypeScript  
+• Firebase  
+
+---
+
+## Featured Projects
+
+### Vendo
+iOS shopping app built with SwiftUI and Firebase.  
+Features: product browsing, favorites, cart and order management.
+
+### MealSafari
+Android recipe app built with Kotlin using MVVM architecture.
+
+### Arbeitszeit Rechner
+Cross-platform mobile app built with React Native and Expo  
+for tracking work hours and calculating salary.
+
+---
+
+## GitHub
+
+https://github.com/FerasHB
