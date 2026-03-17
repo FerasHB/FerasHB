@@ -1,12 +1,10 @@
 # Hi, I'm Feras 👋
 
-Mobile App Developer (iOS, Android & Cross-Platform)
+Mobile App Developer (iOS / Android / Cross-Platform)
 
-I develop mobile applications using modern technologies like Swift, Kotlin and React Native.  
-I enjoy building clean, user-friendly and scalable mobile apps.
+I build mobile applications using modern technologies like Swift, Kotlin and React Native.  
+Currently I focus on building clean and scalable mobile apps.
 
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerasHB&layout=compact&theme=tokyonight)
 ---
 
 ## Tech Stack
@@ -15,29 +13,32 @@ I enjoy building clean, user-friendly and scalable mobile apps.
 <img src="https://skillicons.dev/icons?i=swift,kotlin,react,typescript,firebase,git,github,vscode" />
 </p>
 
-• Swift / SwiftUI  
-• Kotlin / Android  
-• React Native / Expo  
-• TypeScript  
-• Firebase  
-
 ---
 
 ## Featured Projects
 
-### Vendo
+### 📱 Vendo
 iOS shopping app built with SwiftUI and Firebase.  
 Features: product browsing, favorites, cart and order management.
 
-### MealSafari
+### 🍳 MealSafari
 Android recipe app built with Kotlin using MVVM architecture.
 
-### Arbeitszeit Rechner
+### ⏱ Arbeitszeit Rechner
 Cross-platform mobile app built with React Native and Expo  
 for tracking work hours and calculating salary.
 
 ---
 
-## GitHub
+## GitHub Stats
 
-https://github.com/FerasHB
+![Feras's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerasHB&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerasHB&layout=compact&theme=tokyonight)
+
+---
+
+## Contact
+
+GitHub: https://github.com/FerasHB  
+LinkedIn: https://www.linkedin.com/in/feras-hababa-a9227b337/)
