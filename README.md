@@ -5,10 +5,7 @@ Mobile App Developer (iOS, Android & Cross-Platform)
 I develop mobile applications using modern technologies like Swift, Kotlin and React Native.  
 I enjoy building clean, user-friendly and scalable mobile apps.
 
----
-## GitHub Stats
 
-![Feras's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerasHB&show_icons=true&theme=tokyonight)
 ---
 
 ## Tech Stack
