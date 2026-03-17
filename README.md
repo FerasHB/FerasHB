@@ -6,8 +6,16 @@ I develop mobile applications using modern technologies like Swift, Kotlin and R
 I enjoy building clean, user-friendly and scalable mobile apps.
 
 ---
+## GitHub Stats
+
+![Feras's GitHub stats](https://github-readme-stats.vercel.app/api?username=FerasHB&show_icons=true&theme=tokyonight)
+---
 
 ## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=swift,kotlin,react,typescript,firebase,git,github,vscode" />
+</p>
 
 • Swift / SwiftUI  
 • Kotlin / Android  
