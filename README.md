@@ -30,13 +30,14 @@ for tracking work hours and calculating salary.
 
 ---
 
-## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerasHB&layout=compact&theme=tokyonight)
-
----
 
 ## Contact
 
 GitHub: https://github.com/FerasHB  
 LinkedIn: https://www.linkedin.com/in/feras-hababa-a9227b337/)
+
+## 🌐 Portfolio
+
+👉 https://feras-portfolio-alpha.vercel.app/#home
+
