@@ -1,66 +1,104 @@
 # Hi, I'm Feras 👋
 
-### Mobile App Developer · iOS · Android · Cross-Platform
+**Mobile App Developer (iOS / Android / Cross-Platform)**  
+Building real-world applications with a focus on performance, usability, and scalable architecture.
 
-I build clean, scalable mobile applications that solve real problems.  
-Based in Germany 🇩🇪 — focused on delivering polished products with modern architectures.
+---
+
+## 🚀 About Me
+
+I develop mobile and web applications that are designed for real users and real business needs.
+
+My focus is not just writing code — I build products:
+- Clean, maintainable architecture
+- Strong UI/UX focus
+- Scalable and production-ready structure
+
+I work across iOS, Android, and cross-platform environments, and I’m especially interested in **smart systems, dashboards, and connected applications (IoT-ready apps).**
 
 ---
 
 ## 🛠 Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=swift,kotlin,react,typescript,firebase,git,github,vscode)
+<p>
+<img src="https://skillicons.dev/icons?i=swift,kotlin,react,typescript,firebase,git,github,vscode" />
+</p>
 
-**Mobile:** Swift / SwiftUI · Kotlin (Android) · React Native + Expo  
-**Backend & Services:** Firebase · REST APIs  
-**Tools:** Git · GitHub · TypeScript
+**Core:**
+- Swift / SwiftUI
+- Kotlin (Android)
+- React Native + Expo
+- TypeScript
 
----
-
-## 🚀 Featured Projects
-
-### 📦 [Vendo](https://github.com/FerasHB)
-> iOS Shopping App · SwiftUI + Firebase
-
-A full-featured iOS e-commerce app with product browsing, favorites, cart management, and order tracking. Built with SwiftUI and Firebase for real-time data and authentication.
-
----
-
-### 🍽 [MealSafari](https://github.com/FerasHB)
-> Android Recipe App · Kotlin + MVVM
-
-A recipe browsing app for Android built with Kotlin and clean MVVM architecture. Focused on scalable structure and smooth user experience.
+**Additional:**
+- Firebase
+- REST APIs
+- MVVM Architecture
+- Component-based architecture
 
 ---
 
-### ⏱ [Arbeitszeit Rechner](https://github.com/FerasHB)
-> Working Hours Tracker · React Native + Expo
+## 📱 Featured Projects
 
-Cross-platform app that tracks working hours, calculates overtime, and displays a weekly overview with local history storage.
-
----
-
-### 🏢 [Cement Corporate Website](https://github.com/FerasHB)
-> Business Website · Next.js
-
-A professional, mobile-first corporate website built with Next.js. Clean UI/UX, responsive design, and multi-language support — built for real business use.
+### 🛒 Vendo  
+iOS shopping application built with SwiftUI and Firebase  
+- Product browsing, favorites, cart, and order management  
+- Designed to simulate a real e-commerce experience  
+- Clean UI and scalable structure  
 
 ---
 
-## 📌 Currently Working On
-
-- Improving app architecture patterns across iOS and Android projects
-- Exploring deeper TypeScript + React Native integrations
-- Building portfolio-ready projects for the German job market
-
----
-
-## 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://feras-portfolio-alpha.vercel.app/#home)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feras-hababa-a9227b337/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerasHB)
+### 🍳 MealSafari  
+Android recipe app built with Kotlin  
+- MVVM architecture  
+- Structured data flow and maintainable codebase  
+- Focus on clean separation of concerns  
 
 ---
 
-> 💼 **Open to new opportunities** — Junior to Mid-level Mobile Developer roles in Germany (on-site, hybrid, or remote).
+### ⏱ Arbeitszeit Rechner  
+Cross-platform mobile app (React Native + Expo)  
+- Tracks working hours and calculates overtime  
+- Stores data with history and weekly overview  
+- Built for real daily usage  
+
+---
+
+### 🏢 Cement Corporate Platform  
+Business-oriented web application built with Next.js  
+- Designed for a real company use case  
+- Modern corporate UI with responsive design  
+- Scalable structure for future expansion (dashboard, internal tools)  
+
+---
+
+## ⚙️ Currently Building
+
+- 📊 Cleaning Company Dashboard (Employee & Admin system)  
+- 🔌 Smart Device Dashboard (IoT-style app with live status, sensors & control UI)  
+
+---
+
+## 💼 Opportunities
+
+💼 Open to opportunities in Mobile App Development and Smart Systems (Germany / Remote)
+
+---
+
+## 🌐 Portfolio
+
+👉 https://feras-portfolio-alpha.vercel.app/#home  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/FerasHB  
+- LinkedIn: https://www.linkedin.com/in/feras-hababa-a9227b337/  
+
+---
+
+## ⚡ Mindset
+
+I focus on building **real products**, not just demo projects.  
+Clean code, clear structure, and practical value always come first.
